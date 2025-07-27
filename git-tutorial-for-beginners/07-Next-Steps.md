@@ -82,6 +82,8 @@ git stash pop
 不断练习，在真实项目中使用 Git，是成为 Git 高手的最佳途径。祝你使用愉快！
 
 ---
-### 现代工具加持
-想让你的工作流再上一个台阶吗？学习如何使用 AI 工具自动生成提交信息：
+### 现代工具与团队协作
+想让你的工作流再上一个台阶吗？学习如何使用 AI 工具，并掌握现代团队的协作模式：
 *   **[8. 使用 OpenCommit 自动生成提交信息](./08-Automating-Commits-with-OpenCommit.md)**
+*   **[9. 如何撤销操作](./09-Undoing-Things.md)**
+*   **[10. Pull Request (PR) 工作流简介](./10-Pull-Request-Workflow.md)**
