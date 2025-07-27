@@ -80,3 +80,8 @@ git stash pop
 *   **命令行工具**: 学习使用 `git log` 的各种选项，如 `--oneline`, `--graph`, `--decorate`，能让你更清晰地看懂历史。
 
 不断练习，在真实项目中使用 Git，是成为 Git 高手的最佳途径。祝你使用愉快！
+
+---
+### 现代工具加持
+想让你的工作流再上一个台阶吗？学习如何使用 AI 工具自动生成提交信息：
+*   **[8. 使用 OpenCommit 自动生成提交信息](./08-Automating-Commits-with-OpenCommit.md)**
