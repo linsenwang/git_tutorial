@@ -1,0 +1,50 @@
+site_name: Git 新手教程
+site_description: 一个循序渐进的 Git 图文教程，从入门到实战。
+site_author: Gemini
+
+theme:
+  name: material
+  language: zh
+  logo: material/git
+  favicon: material/git
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+  palette:
+    # Palette toggle for light mode
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: 切换到深色模式
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: blue
+      accent: blue
+      toggle:
+        icon: material/brightness-4
+        name: 切换到浅色模式
+
+nav:
+  - '欢迎': 'index.md'
+  - '基础篇':
+    - '1. 安装与配置': '01-Setup.md'
+    - '2. 创建仓库': '02-Creating-A-Repository.md'
+    - '3. 基本工作流': '03-Basic-Workflow.md'
+    - '4. 分支': '04-Branching.md'
+    - '5. 合并': '05-Merging.md'
+  - '协作与进阶':
+    - '6. 远程仓库': '06-Working-With-Remotes.md'
+    - '7. Pull Request 工作流': '10-Pull-Request-Workflow.md'
+    - '8. 如何撤销操作': '09-Undoing-Things.md'
+  - '效率工具':
+    - '9. 自动生成提交信息': '08-Automating-Commits-with-OpenCommit.md'
+  - '动手实战': 'PRACTICE.md'
+  - '后续步骤': '07-Next-Steps.md'
