@@ -74,6 +74,7 @@ git stash pop
 
 ## 后续学习资源
 
+*   **图形化工具 (GUI)**: 学习如何在 VS Code 中高效使用 Git，可以极大提升你的日常开发效率。
 *   **Pro Git Book**: 官方的 Git 书籍，非常全面和深入。有免费的在线版本。
 *   **Learn Git Branching**: 一个交互式的、游戏化的 Git 学习网站。
 *   **GitHub Skills**: GitHub 官方提供的交互式学习课程。

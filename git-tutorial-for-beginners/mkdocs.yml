@@ -63,5 +63,6 @@ nav:
     - '8. 如何撤销操作': '09-Undoing-Things.md'
   - '效率工具':
     - '9. 自动生成提交信息': '08-Automating-Commits-with-OpenCommit.md'
+    - '10. 在 VS Code 中使用 Git': '11-Git-in-VS-Code.md'
   - '动手实战': 'PRACTICE.md'
   - '后续步骤': '07-Next-Steps.md'
