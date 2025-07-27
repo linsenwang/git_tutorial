@@ -1,4 +1,4 @@
-# 10. Pull Request (PR) 工作流简介
+# 7. Pull Request 工作流
 
 到目前为止，我们学习的命令主要关注个人如何使用 Git。然而，在团队项目中，直接向主分支（如 `main`）推送代码通常是不被允许的。取而代之的是一种被称为 **Pull Request** (在 GitLab 中称为 **Merge Request**) 的协作模式。
 
