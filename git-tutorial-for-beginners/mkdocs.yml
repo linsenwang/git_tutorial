@@ -5,7 +5,7 @@ theme:
   name: material
   language: zh
   logo: assets/logo.png
-  favicon: material/git
+  favicon: assets/favicon.png
   features:
     - navigation.tracking
     - navigation.tabs
